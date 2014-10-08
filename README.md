@@ -15,6 +15,9 @@ Lista:
   
 Tekst **pogrubiony**.
 
+##Nagłówek drugiego poziomu
+
 Link do mojego [reposytorium] (https://github.com/akzseinga/IO_AJ)
 
-Obrazek ![kiciuś] (http://www.stylomierz.pl/obrazki/styles/201008/zwierzaki-40401b39003f086/b_sweet_kicius_67868.jpg)
+Obrazek  ![kiciuś] (http://www.stylomierz.pl/obrazki/styles/201008/zwierzaki-40401b39003f086/b_sweet_kicius_67868.jpg)
+
